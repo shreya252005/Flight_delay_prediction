@@ -31,7 +31,3 @@ Predicting aviation delays is critical for minimizing passenger disruption and u
 
 ---
 
-## 📂 Repository Structure
-```text
-├── flight_delay_prediction.ipynb   # Main Google Colab Jupyter Notebook
-└── README.md                       # Project documentation
